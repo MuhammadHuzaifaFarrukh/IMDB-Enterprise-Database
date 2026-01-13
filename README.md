@@ -30,6 +30,8 @@ This project is an enterprise-grade relational database engine designed to be th
 │   ├── Technical_Report.pdf       # Full architectural deep-dive
 │   ├── Business_Rules.pdf         # Logic & Constraint definitions
 │   └── Requirements_Specs.docx    # Functional & Non-Functional requirements
+├── 📂 Analytics
+|   └── Complex Queries
 ├── 📂 presentation
 │   └── Project_Presentation.pptx  # Stakeholder slide deck
 └── README.md

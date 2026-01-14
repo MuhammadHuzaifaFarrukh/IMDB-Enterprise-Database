@@ -1,9 +1,12 @@
 # IMDb Enterprise Media Metadata System 🎬
-**Developed by "The Architects" 
+## 🛠️ The Architects
+This system was engineered and maintained by:
 
-[![Database](https://img.shields.io/badge/Database-Oracle%20SQL-orange.svg)](https://www.oracle.com/database/)
-[![Status](https://img.shields.io/badge/Status-Production--Ready-green.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
+| Name | GitHub Profile |
+| :--- | :--- |
+| **Muhammad Huzaifa Farrukh** | [@MuhammadHuzaifaFarrukh](https://github.com/MuhammadHuzaifaFarrukh) |
+| **Hammad** | [@hammad-x25](https://github.com/hammad-x25) |
+| **Huzayfa Siddique** | [@huzayfaSiddique](https://github.com/huzayfaSiddique) |
 
 ## 📌 Project Vision
 This project is an enterprise-grade relational database engine designed to be the **"Single Source of Truth" (SSOT)** for the global entertainment industry. Beyond simple storage, this system focuses on **Data Governance**, **Historical Compliance**, and **Financial Intelligence**, modeling the complex ecosystem of IMDb.
